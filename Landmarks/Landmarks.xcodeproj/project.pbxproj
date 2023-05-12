@@ -29,6 +29,7 @@
 		0D5490E82A0EA739002ECC30 /* RotatedBadgeSymbol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D5490E72A0EA739002ECC30 /* RotatedBadgeSymbol.swift */; };
 		0D5490EA2A0EA779002ECC30 /* Badge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D5490E92A0EA779002ECC30 /* Badge.swift */; };
 		0D5490ED2A0EAB46002ECC30 /* hikeData.json in Resources */ = {isa = PBXBuildFile; fileRef = 0D5490EC2A0EAB46002ECC30 /* hikeData.json */; };
+		0D5490EF2A0EABAA002ECC30 /* Hike.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D5490EE2A0EABAA002ECC30 /* Hike.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -75,6 +76,7 @@
 		0D5490E72A0EA739002ECC30 /* RotatedBadgeSymbol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotatedBadgeSymbol.swift; sourceTree = "<group>"; };
 		0D5490E92A0EA779002ECC30 /* Badge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Badge.swift; sourceTree = "<group>"; };
 		0D5490EC2A0EAB46002ECC30 /* hikeData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = hikeData.json; sourceTree = "<group>"; };
+		0D5490EE2A0EABAA002ECC30 /* Hike.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hike.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -168,6 +170,7 @@
 				0D5490EB2A0EA89D002ECC30 /* Badge */,
 				0D5490DF2A0DA43D002ECC30 /* Helpers */,
 				0D5490E02A0DA452002ECC30 /* Landmarks */,
+				0D5490EE2A0EABAA002ECC30 /* Hike.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -360,6 +363,7 @@
 				0D5490CD2A0C3A91002ECC30 /* MapView.swift in Sources */,
 				0D5490DE2A0DA37C002ECC30 /* FavoriteButton.swift in Sources */,
 				0D5490E22A0E9EB5002ECC30 /* HexagonParameters.swift in Sources */,
+				0D5490EF2A0EABAA002ECC30 /* Hike.swift in Sources */,
 				0D5490E82A0EA739002ECC30 /* RotatedBadgeSymbol.swift in Sources */,
 				0D5490E62A0EA69F002ECC30 /* BadgeSymbol.swift in Sources */,
 				0D5490DA2A0D44FD002ECC30 /* LandmarkList.swift in Sources */,
